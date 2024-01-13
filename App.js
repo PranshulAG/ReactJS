@@ -1,7 +1,7 @@
 const heading = React.createElement(
   "h1",
   { id: "heading" },
-  "Hello From React to Pranshul Agarwal 👻"
+  "Hello From React to Pranshul Agarwal"
 );
 const parent = React.createElement(
   "div",
